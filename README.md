@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm &lt;CHRISTIAN ODURO&gt; 👋</h1>
+<h1 align="center"> Hi, I'm CHRISTIAN_ODURO  </h1>
 <h3 align="center">Network Technician &nbsp;|&nbsp; CCNA &nbsp;|&nbsp; NetDevOps</h3>
 
 <p align="center">
