@@ -29,7 +29,7 @@
 
 ## Featured project
 
-### [Enterprise Network: HQ and Branch](https://github.com/GyenNyame47/ccna-enterprise-network)
+### [Enterprise Network: HQ and Branch](https://github.com/GyeNyame47/ccna-enterprise-network)
 
 A two-site enterprise network designed, built and tested in Cisco Packet Tracer, with sanitized configs, test evidence and a troubleshooting log.
 
