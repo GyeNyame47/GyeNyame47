@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm &lt;Your Name&gt; 👋</h1>
+<h1 align="center">Hi, I'm &lt;CHRISTIAN ODURO&gt; 👋</h1>
 <h3 align="center">Network Technician &nbsp;|&nbsp; CCNA &nbsp;|&nbsp; NetDevOps</h3>
 
 <p align="center">
@@ -30,7 +30,7 @@
 
 ## Featured project
 
-### [Enterprise Network: HQ and Branch](https://github.com/<your-username>/enterprise-network-hq-branch)
+### [Enterprise Network: HQ and Branch](https://github.com/<GyenNyame47>/ccna-enterprise-network)
 
 A two-site enterprise network designed, built and tested in Cisco Packet Tracer, with sanitized configs, test evidence and a troubleshooting log.
 
@@ -85,5 +85,5 @@ A two-site enterprise network designed, built and tested in Cisco Packet Tracer,
 
 <p>
   <a href="https://www.linkedin.com/in/<your-linkedin>"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:<your-email>"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:<oduroc58@mail.com>"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
