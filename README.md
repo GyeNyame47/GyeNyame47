@@ -23,7 +23,6 @@
 - 🔧 I design, build and troubleshoot enterprise networks: VLANs, routing, redundancy, security and wireless.
 - 🎓 CCNA-level skills in switching, routing, IP services and network security.
 - 🤖 Moving into **NetDevOps**: configs in Git, documented tests, and automation of repetitive network tasks.
-- 📍 Based in &lt;City, Country&gt;
 - 💬 Ask me about OSPF, HSRP, Rapid PVST+, EtherChannel, ACLs, NAT, DHCP relay and troubleshooting.
 
 ---
