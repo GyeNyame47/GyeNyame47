@@ -1,5 +1,4 @@
 <img width="2048" height="768" alt="Global Network Technician" src="https://github.com/user-attachments/assets/0982ffb1-3587-4dc0-aba6-73892cc5f93d" />
-<h1 align="center"> Hi, I'm CHRISTIAN_ODURO  </h1>
 <h3 align="center">Network Technician &nbsp;|&nbsp; CCNA &nbsp;|&nbsp; NetDevOps</h3>
 
 <p align="center">
@@ -18,6 +17,7 @@
 </p>
 
 ---
+<h1 align="center"> Hi, I'm CHRISTIAN_ODURO  </h1>
 
 ## About me
 
